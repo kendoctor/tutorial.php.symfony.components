@@ -1,0 +1,15 @@
+{
+    "name": "kendoctor/tutorial.php.symfony.components",
+    "description": "It's a set of tutorials for symfony components",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kendoctor",
+            "email": "kendoctor@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"symfony/http-foundation" : "*"
+    }
+}
